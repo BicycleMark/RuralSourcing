@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuralSourcing", "RuralSourcing\RuralSourcing.csproj", "{3D95CD78-FCED-4498-801A-B086FB8A875A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RuralSourcing", "RuralSourcing\RuralSourcing.csproj", "{3D95CD78-FCED-4498-801A-B086FB8A875A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E16CE7CE-E797-4269-AC77-5E766EB11797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRuralSourcing", "TestRuralSourcing\TestRuralSourcing.csproj", "{6D4D1A55-32E5-4DC2-AF2C-C2C79057FB64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestRuralSourcing", "TestRuralSourcing\TestRuralSourcing.csproj", "{6D4D1A55-32E5-4DC2-AF2C-C2C79057FB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quorum", "Quorum\Quorum.csproj", "{9CCC2211-9869-49EF-B60B-E8301DDA4C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestQuorum", "TestQuorum\TestQuorum.csproj", "{DE5E638C-965A-4F6C-9E19-07657127FD24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,14 @@ Global
 		{6D4D1A55-32E5-4DC2-AF2C-C2C79057FB64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D4D1A55-32E5-4DC2-AF2C-C2C79057FB64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D4D1A55-32E5-4DC2-AF2C-C2C79057FB64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCC2211-9869-49EF-B60B-E8301DDA4C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCC2211-9869-49EF-B60B-E8301DDA4C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCC2211-9869-49EF-B60B-E8301DDA4C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCC2211-9869-49EF-B60B-E8301DDA4C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE5E638C-965A-4F6C-9E19-07657127FD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE5E638C-965A-4F6C-9E19-07657127FD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE5E638C-965A-4F6C-9E19-07657127FD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE5E638C-965A-4F6C-9E19-07657127FD24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
